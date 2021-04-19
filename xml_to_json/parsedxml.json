@@ -1,0 +1,35 @@
+{
+    "0_first-tag": {
+        "0_not-interested": {
+            "@val": "blah blah"
+        },
+        "1_second-tag": {
+            "0_the-tag-you-want-as-root": {
+                "0_row": {
+                    "0_columnA": {
+                        "@val": "The data that you want",
+                        "_link": "a/at3.htm"
+                    },
+                    "1_columnB": {
+                        "@val": "More data that you want",
+                        "_link": "h/at3.htm"
+                    }
+                },
+                "1_row": {
+                    "0_columnA": {
+                        "@val": "Yet more data that you want",
+                        "_link": "e/at3.htm"
+                    },
+                    "1_columnB": {
+                        "@val": "Eh, get this data too",
+                        "_link": "s/at3.htm"
+                    }
+                }
+            },
+            "_name": "tagname"
+        },
+        "2_another-irrelevant-tag": {
+            "@val": "some other info that you do not want"
+        }
+    }
+}

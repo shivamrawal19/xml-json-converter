@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<first-tag>
+    <not-interested>blah blah</not-interested>
+    <second-tag name="tagname">
+        <the-tag-you-want-as-root>
+            <row>
+                <columnA link="a/at3.htm">The data that you want</columnA>
+                <columnB link="h/at3.htm">More data that you want</columnB>
+            </row>
+            <row>
+                <columnA link="e/at3.htm">Yet more data that you want</columnA>
+                <columnB link="s/at3.htm">Eh, get this data too</columnB>
+            </row>
+        </the-tag-you-want-as-root>
+    </second-tag>
+    <another-irrelevant-tag>some other info that you do not want</another-irrelevant-tag>
+</first-tag>
