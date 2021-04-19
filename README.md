@@ -2,9 +2,14 @@
 
 - No data loss
 - Fully Customizable
-- maintains ordering
+- Maintains ordering
 
 ## Current settings
+| XML          | JSON                     |
+|--------------|--------------------------|
+| Tags         | "`index`_`tag`": {}      |
+| Attributes   | "_`attribute`": "`value`"|
+| Inner Text   | "@val": "`inner_text`"   |
 ```
 <?xml version="1.0" encoding="UTF-8"?>
 <first-tag>
